@@ -1,0 +1,1 @@
+web: gunicorn stockProject2.wsgi
